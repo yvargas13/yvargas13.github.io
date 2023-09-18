@@ -1,0 +1,22 @@
+{
+	"movies": [
+		{
+			"Title": "Back to the Future ",
+			"Director": "Robert Zemeckis",
+			"Rating": "PG-13",
+			"Year": "1985"
+		},
+		{
+			"Title": "Mannequinn",
+			"Director": "Michael Gottlieb",
+			"Rating": "PG-13",
+			"Year": "1987"
+		},
+		{
+			"Title": "Funny Girl",
+			"Director": "William Wyler",
+			"Rating": "PG-13",
+			"Year": "1968"
+		}
+	]
+}
